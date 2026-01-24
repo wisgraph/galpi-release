@@ -1,7 +1,7 @@
 {
   "version": "1.0.3",
   "notes": "### v1.0.3 업데이트 안내 \ud83d\ude80\n\n이번 업데이트에서는 사용자의 편의를 위한 창 드래그 기능을 추가하고 시스템 안정성을 강화했습니다.\n\n#### \ud83d\udee0\ufe0f 주요 개선 사항\n- **드래그 가능한 런처**: 이제 설정에서 'Draggable Launcher'를 활성화하여 갈피 창을 원하는 위치로 자유롭게 이동할 수 있습니다.\n- **Tauri 2.0 보안 강화**: 창 제어 관련 권한 설정을 최적화하여 보다 안전하고 부드러운 사용자 경험을 제공합니다.\n- **안정성 개선**: 내부 타입 시스템 오류를 수정하고 전반적인 앱 빌드 안정성을 높였습니다.\n\n항상 갈피를 응원해 주셔서 감사합니다! \ud83d\ude0a",
-  "pub_date": "2026-01-25T01:38:00Z",
+  "pub_date": "2026-01-24T16:43:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "RUS5nk9jxqQFJnM7lKe9jQJVM1bPc6hJW9oMeV55HOXf2tepIy6/aT8xFq9AjfErt/YHtC68uxv4YGtr17cpSSUJdKxKKeCa4AE=",
