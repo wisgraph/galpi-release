@@ -1,14 +1,14 @@
 {
   "version": "1.0.5",
   "notes": "### v1.0.5 \uc5c5\ub370\uc774\ud2b8 \uc548\ub0b4 \ud83d\ude80\n\n\uc774\ubc88 \uc5c5\ub370\uc774\ud2b8\uc5d0\uc11c\ub294 \ub354\uc6b1 \ucf8c\uc801\ud55c \uc815\ubcf4 \ud655\uc778\uc744 \uc704\ud574 \ub7f0\ucc98\uc758 \uaddc\uaca9\uc744 \uac1c\uc120\ud558\uace0 \ub514\uc790\uc778 \ub514\ud14c\uc77c\uc744 \uc870\uc815\ud588\uc2b5\ub2c8\ub2e4.\n\n#### \ud83c\udfa8 \ub514\uc790\uc778 \ubc0f \uc0ac\uc6a9\uc131 \uac1c\uc120\n- **\ub7f0\ucc98 \ud06c\uae30 \ud655\ub300**: \ub7f0\ucc98 \ucc3d\uc758 \ud06c\uae30\ub97c \uc57d 10% \ud655\ub300\ud558\uc5ec \ud55c \ubc88\uc5d0 \ub354 \ub9ce\uc740 \uc815\ubcf4\ub97c \uc2dc\uc6d0\ud558\uac8c \ud655\uc778\ud560 \uc218 \uc788\ub3c4\ub85d \uac1c\uc120\ud588\uc2b5\ub2c8\ub2e4. (770x500)\n- **\ud0dc\uadf8 \uac00\ub3c5\uc131 \ud5a5\uc0c1**: \ub9ac\uc2a4\ud2b8 \ub0b4 \ud0dc\uadf8\uc758 \uae00\uc790 \ud06c\uae30\ub97c \ud0a4\uc6b0\uace0 \uc5ec\ubc31\uc744 \uc870\uc815\ud558\uc5ec \uc2dc\uc778\uc131\uc744 \ub192\uc600\uc2b5\ub2c8\ub2e4. \n- **\uc5c5\ub370\uc774\ud2b8 \uc2dc\uc2a4\ud15c \uc644\uacb0**: \uc0c8\ub86d\uac8c \ub3c4\uc785\ub41c \ud504\ub9ac\ubbf8\uc5c4 \uc5c5\ub370\uc774\ud2b8 UI\uc640 \uc790\ub3d9 \uc5c5\ub370\uc774\ud2b8 \ud750\ub984\uc774 \uc774\ubc88 \ubc84\uc804\ubd80\ud130 \uc644\ubcbd\ud558\uac8c \uc801\uc6a9\ub429\ub2c8\ub2e4.\n\n\ud56d\uc0c1 \uac08\ud53c\ub97c \uc751\uc6d0\ud574 \uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4! \ud83d\ude0a\n",
-  "pub_date": "2026-01-24T19:47:16Z",
+  "pub_date": "2026-01-25T10:24:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "RUQU74i3VT6N9mJpUVrvSaSNoV+lMDaJW4geZhASp3RC5uqb1FeapMAnk5bWf20nR48ypTsTXPQfYYQpRp8ASfyuQmCSNvL8zg8=",
+      "signature": "RUTnLQF27kMYYK3aDoUdKSxN4bilah5wfblWusPmNmdl2Ac40B+SWKwo4dErGLQQIoVYYoevAh0ehIbMPoKENJx4Pu4j7pPVOwk=",
       "url": "https://github.com/wisgraph/galpi-release/releases/download/v1.0.5/galpi.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "RUQU74i3VT6N9mJpUVrvSaSNoV+lMDaJW4geZhASp3RC5uqb1FeapMAnk5bWf20nR48ypTsTXPQfYYQpRp8ASfyuQmCSNvL8zg8=",
+      "signature": "RUTnLQF27kMYYK3aDoUdKSxN4bilah5wfblWusPmNmdl2Ac40B+SWKwo4dErGLQQIoVYYoevAh0ehIbMPoKENJx4Pu4j7pPVOwk=",
       "url": "https://github.com/wisgraph/galpi-release/releases/download/v1.0.5/galpi.app.tar.gz"
     }
   }
