@@ -1,0 +1,27 @@
+{
+    "name": "One Dark Pro",
+    "mode": "dark",
+    "colors": {
+        "primary": "#61afef",
+        "text": "#abb2bf",
+        "border": "#3e4451",
+        "border-bold": "#4b5263",
+        "border-focus": "#61afef",
+        "selection-1": "#61afef",
+        "selection-2": "#c678dd",
+        "selection-3": "#56b6c2",
+        "selection-4": "#e06c75",
+        "header": "#21252b",
+        "content": "#2c313c",
+        "card": "#3e4451",
+        "hover": "#282c34",
+        "window": "transparent"
+    },
+    "fonts": {
+        "sans": "Inter, Avenir, Helvetica, Arial, sans-serif"
+    },
+    "radius": {
+        "main": "1rem",
+        "item": "0.75rem"
+    }
+}

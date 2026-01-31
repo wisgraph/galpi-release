@@ -1,0 +1,27 @@
+{
+    "name": "Nord",
+    "mode": "dark",
+    "colors": {
+        "primary": "#88c0d0",
+        "text": "#eceff4",
+        "border": "#4c566a",
+        "border-bold": "#5e81ac",
+        "border-focus": "#88c0d0",
+        "selection-1": "#88c0d0",
+        "selection-2": "#81a1c1",
+        "selection-3": "#5e81ac",
+        "selection-4": "#b48ead",
+        "header": "#3b4252",
+        "content": "#434c5e",
+        "card": "#4c566a",
+        "hover": "#2e3440",
+        "window": "transparent"
+    },
+    "fonts": {
+        "sans": "Inter, Avenir, Helvetica, Arial, sans-serif"
+    },
+    "radius": {
+        "main": "1rem",
+        "item": "0.75rem"
+    }
+}

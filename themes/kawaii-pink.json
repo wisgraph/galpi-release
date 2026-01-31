@@ -1,0 +1,29 @@
+{
+    "name": "Kawaii Pink",
+    "mode": "light",
+    "colors": {
+        "primary": "#ff6b9d",
+        "text": "#5a5a5a",
+        "border": "#ffc0cb",
+        "border-bold": "#ffb6c1",
+        "border-focus": "#ff6b9d",
+        "selection-1": "#ff6b9d",
+        "selection-2": "#ff85a1",
+        "selection-3": "#ffa0b5",
+        "selection-4": "#ffb6c1",
+        "header": "#ffe4ec",
+        "content": "#ffffff",
+        "card": "#ffffff",
+        "hover": "#fff0f5",
+        "window": "transparent"
+    },
+    "backgroundImage": "https://images.unsplash.com/vector-1763266643016-88d3febb23d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "backgroundOpacity": 0.4,
+    "fonts": {
+        "sans": "Inter, Avenir, Helvetica, Arial, sans-serif"
+    },
+    "radius": {
+        "main": "1.25rem",
+        "item": "1rem"
+    }
+}

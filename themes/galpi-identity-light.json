@@ -1,0 +1,19 @@
+{
+    "name": "Galpi Identity Light",
+    "mode": "light",
+    "colors": {
+        "primary": "#d66a84",
+        "text": "#2d3436",
+        "border": "#e6dec6",
+        "border-bold": "#dcc289",
+        "selection-1": "#6ab098",
+        "selection-2": "#d66a84",
+        "selection-3": "#dcc289",
+        "selection-4": "#6c5ce7",
+        "header": "#f2eee5",
+        "content": "#ffffff",
+        "card": "#ffffff",
+        "hover": "#fdfbf6",
+        "window": "transparent"
+    }
+}

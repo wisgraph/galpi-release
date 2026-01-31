@@ -1,0 +1,29 @@
+{
+    "name": "Ocean Breeze",
+    "mode": "light",
+    "colors": {
+        "primary": "#0288d1",
+        "text": "#37474f",
+        "border": "#81d4fa",
+        "border-bold": "#4fc3f7",
+        "border-focus": "#0288d1",
+        "selection-1": "#0288d1",
+        "selection-2": "#039be5",
+        "selection-3": "#29b6f6",
+        "selection-4": "#4fc3f7",
+        "header": "#b3e5fc",
+        "content": "#ffffff",
+        "card": "#ffffff",
+        "hover": "#e1f5fe",
+        "window": "transparent"
+    },
+    "backgroundImage": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?q=80&w=2126&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "backgroundOpacity": 0.4,
+    "fonts": {
+        "sans": "Inter, Avenir, Helvetica, Arial, sans-serif"
+    },
+    "radius": {
+        "main": "1rem",
+        "item": "0.75rem"
+    }
+}

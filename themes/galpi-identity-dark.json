@@ -1,0 +1,23 @@
+{
+    "name": "Galpi Identity Dark",
+    "mode": "dark",
+    "colors": {
+        "primary": "#ff9eb5",
+        "text": "#eef5f2",
+        "border": "#3a5663",
+        "border-bold": "#cfae7d",
+        "selection-1": "#4cd9a4",
+        "selection-2": "#ff9eb5",
+        "selection-3": "#cfae7d",
+        "selection-4": "#7bc4c4",
+        "header": "#1d323d",
+        "content": "#263e4a",
+        "card": "#2f4b59",
+        "hover": "#14252e",
+        "window": "transparent"
+    },
+    "radius": {
+        "main": "0.75rem",
+        "item": "0.5rem"
+    }
+}

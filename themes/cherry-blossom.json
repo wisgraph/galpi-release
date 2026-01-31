@@ -1,0 +1,29 @@
+{
+    "name": "Cherry Blossom",
+    "mode": "light",
+    "colors": {
+        "primary": "#e91e63",
+        "text": "#4a4a4a",
+        "border": "#f8bbd0",
+        "border-bold": "#f48fb1",
+        "border-focus": "#e91e63",
+        "selection-1": "#e91e63",
+        "selection-2": "#ec407a",
+        "selection-3": "#f06292",
+        "selection-4": "#f48fb1",
+        "header": "#fce4ec",
+        "content": "#ffffff",
+        "card": "#ffffff",
+        "hover": "#fef5f8",
+        "window": "transparent"
+    },
+    "backgroundImage": "https://images.unsplash.com/photo-1522383225653-ed111181a951?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "backgroundOpacity": 0.2,
+    "fonts": {
+        "sans": "Inter, Avenir, Helvetica, Arial, sans-serif"
+    },
+    "radius": {
+        "main": "1rem",
+        "item": "0.75rem"
+    }
+}

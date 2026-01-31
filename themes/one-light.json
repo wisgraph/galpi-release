@@ -1,0 +1,27 @@
+{
+    "name": "One Light",
+    "mode": "light",
+    "colors": {
+        "primary": "#4078f2",
+        "text": "#383a42",
+        "border": "#e5e5e6",
+        "border-bold": "#d0d0d1",
+        "border-focus": "#4078f2",
+        "selection-1": "#4078f2",
+        "selection-2": "#a626a4",
+        "selection-3": "#0184bc",
+        "selection-4": "#e45649",
+        "header": "#f0f0f0",
+        "content": "#fafafa",
+        "card": "#ffffff",
+        "hover": "#fafafa",
+        "window": "transparent"
+    },
+    "fonts": {
+        "sans": "Inter, Avenir, Helvetica, Arial, sans-serif"
+    },
+    "radius": {
+        "main": "1rem",
+        "item": "0.75rem"
+    }
+}

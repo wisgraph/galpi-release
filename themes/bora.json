@@ -1,0 +1,25 @@
+{
+    "name": "New Theme",
+    "mode": "light",
+    "colors": {
+        "primary": "#bedc61",
+        "text": "#796c84",
+        "border": "#70a771",
+        "border-bold": "#e5dbeb",
+        "border-focus": "#a7d256",
+        "selection-1": "#bedc61",
+        "selection-2": "#d2f075",
+        "selection-3": "#e6ff89",
+        "selection-4": "#faff9d",
+        "header": "#b8b3fc",
+        "content": "#ffffff",
+        "card": "#ffffff",
+        "hover": "#c2b1d8",
+        "window": "transparent"
+    },
+    "backgroundImage": "blob:http://localhost:5173/6e4bfa5d-4226-4325-88dc-fcf08616a68a",
+    "backgroundOpacity": 0.2,
+    "radius": {
+        "item": "0.75rem"
+    }
+}
