@@ -7,7 +7,7 @@
 ## 📥 설치 및 실행 가이드 (macOS)
 
 ### 1단계: 설치 파일 다운로드
-[베타 릴리즈 페이지](https://github.com/wisgraph/galpi-release/releases)에서 고객님의 기기 환경에 맞는 파일을 다운로드하세요.
+[정식 릴리즈 페이지](https://github.com/wisgraph/galpi-release/releases)에서 고객님의 기기 환경에 맞는 파일을 다운로드하세요.
 *   **`.dmg` 파일**: 처음 설치하시는 분들을 위한 표준 설치 파일입니다.
 *   다운로드 후 실행하여 **galpi** 아이콘을 **Applications(응용 프로그램)** 폴더로 드래그 앤 드롭 하세요.
 
